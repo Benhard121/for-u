@@ -1574,9 +1574,10 @@ audio {
   border-radius: 5px; /* Border radius kotak putih */
 }
 
+
 .message-container {
   position: absolute;
-  top: 20%;
+  top: 13%;
   left: 50%;
   transform: translateX(-50%);
   text-align: center;
